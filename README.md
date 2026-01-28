@@ -39,7 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<strong>Admin Panel > Agents > Roles.</strong>
+<strong>Admin Panel > Agents > Roles. Click Add new role > Name it Supreme Admin > Check every box under Permissions tab. </strong>
 <p>
 </p>
 <p>
