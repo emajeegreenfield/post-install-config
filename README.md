@@ -39,23 +39,22 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<strong>Admin Panel > Agents > Roles. Click Add new role > Name it Supreme Admin > Check every box under Permissions tab. </strong>
+<strong>Admin Panel > Agents > Roles. Click Add new role > Name it Supreme Admin > Check every box under Permissions tab > Click Add role. </strong>
 <p>
 </p>
 <p>
 </p>
 <br />
 <p>
-<img <img width="829" height="473" alt="Screenshot 2025-09-01 181421" src="https://github.com/user-attachments/assets/1ba8bdea-2066-4cf1-b5a6-58c39010c646"/>
+<img <<img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/137f953c-dfae-4eb3-be3d-cf4df4d33d70" />
 </p>
-<img width="828" height="583" alt="Screenshot 2025-09-01 181436" src="https://github.com/user-attachments/assets/b0b2772e-f457-4eb5-a99b-ef058687d792"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/5bba1944-0f66-4a1f-bcfe-de888d957e35" />
 
-<img width="829" height="464" alt="Screenshot 2025-09-01 181502" src="https://github.com/user-attachments/assets/db0c2b59-7ba9-48dc-91cd-edc17c1c2098"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/82ccf5df-22fa-459d-9fe6-e4dceb531462" />
 
-<img width="828" height="340" alt="Screenshot 2025-09-01 181513" src="https://github.com/user-attachments/assets/a53874f3-fd6a-4fe2-8646-80b68185ce9d"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/2911c291-72ba-433e-89f7-9af6e5977d7e" />
 
-<img width="825" height="379" alt="Screenshot 2025-09-01 181524" src="https://github.com/user-attachments/assets/376672b6-6a18-4842-a0dd-584d1ecb0e5d"/>
-
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/7f46e506-950a-45cd-9c05-2a4675219545" />
 
 
 
@@ -73,7 +72,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<strong>Admin Panel > Agents > Departments.</strong>
+<strong>Admin Panel > Agents > Departments. Click Add new department > Choose Top Level Department > Name it SysAdmins > Click Create Dept.</strong>
 <p>
 System Administrators:
 </p>
@@ -81,7 +80,7 @@ System Administrators:
 </p>
 <br />
 <p>
-<img <img width="831" height="555" alt="Screenshot 2025-09-01 181549" src="https://github.com/user-attachments/assets/46e421ac-0841-45c6-af64-c9aff42857ab"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b38caf29-8dd5-422c-8315-efe63047efbe" />
 </p>
 <p>
 </p>
@@ -98,7 +97,7 @@ System Administrators:
 
 
 
-<strong>Admin Panel > Agents > Teams.</strong>
+<strong>Admin Panel > Agents > Teams. Click Add New Team > Name it Online Banking > Click Create Team.</strong>
 <p>
 Online Banking:
 </p>
@@ -106,7 +105,7 @@ Online Banking:
 </p>
 <br />
 <p>
-<img <img width="957" height="673" alt="Screenshot 2025-09-01 182109" src="https://github.com/user-attachments/assets/c94f56f3-839d-48e2-a95c-01f39473858c"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/93134116-5c25-49e5-94b7-e43db05d1988" />
 </p>
 <p>
 </p>
@@ -129,7 +128,7 @@ Make sure "Require registration and login to create tickets" is NOT selected:
 </p>
 <br />
 <p>
-<img <img width="828" height="561" alt="Screenshot 2025-09-01 182137" src="https://github.com/user-attachments/assets/990558ed-a3f9-4040-8831-b478e7113aca"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b114b74b-92e4-4823-b9ff-050e7dac37f5" />
 </p>
 <p>
 </p>
