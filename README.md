@@ -144,19 +144,22 @@ Make sure "Require registration and login to create tickets" is NOT selected:
 
 <strong>Admin Panel > Agents > Add New.</strong>
 <p>
-Ben Crawford:
+Jane Doe:
 </p>
 <p>
 </p>
 <br />
 <p>
-<img <img width="951" height="809" alt="Screenshot 2025-09-01 182410" src="https://github.com/user-attachments/assets/524b0adf-9324-4611-8375-f8ef5a95fcc7"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9e2f9c4e-d75c-4290-8c36-f8ca003cadeb" />
 </p>
 <p>
-Jane Doe: 
-<img width="952" height="813" alt="Screenshot 2025-09-01 182435" src="https://github.com/user-attachments/assets/fa90c704-ff38-4f65-ae63-a8218890e7b0"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/9d90ca42-5686-49ee-9c79-d9f18adaf820" />
+</p>
+John Doe: 
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/4cd9bab7-9756-4a83-8f6d-c4d3434d605d" />
 
-<img width="957" height="397" alt="Screenshot 2025-09-01 182458" src="https://github.com/user-attachments/assets/1b04352e-afed-45c1-a5ce-13d2e87ffda6"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/fb5b2be4-21ab-442c-bac2-90084ed7ee0c" />
+
 
 
 
@@ -181,7 +184,7 @@ Karen (end user):
 </p>
 <br />
 <p>
-<img <img width="643" height="389" alt="Screenshot 2025-09-01 182746" src="https://github.com/user-attachments/assets/867e6744-583e-473a-82c0-917d16f72623"/>
+<img <img width="1286" height="786" alt="image" src="https://github.com/user-attachments/assets/fef27a79-706f-41bb-afd0-abf8d8cd6e66" />
 </p>
 
 Repeat this step for any internal end users.
@@ -207,11 +210,11 @@ Sev-C (8 hours, business hours).
 </p>
 <br />
 <p>
-<img <img width="828" height="535" alt="Screenshot 2025-09-01 182806" src="https://github.com/user-attachments/assets/d94ce8f0-bf22-4228-ac13-d19de8970702"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/577f1d13-285b-47b6-840f-8179bbf17720" />
 
-<img width="829" height="541" alt="Screenshot 2025-09-01 182818" src="https://github.com/user-attachments/assets/b942ca46-f0fd-40be-b604-6fd84b6ef577"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ed67d20a-83cd-43e0-837a-6a09ae64398c" />
 
-<img width="830" height="526" alt="Screenshot 2025-09-01 182828" src="https://github.com/user-attachments/assets/758a1d52-4a0b-47a2-b941-1792d237f6ee"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/69d14b30-5a8a-4ed3-972b-8b492e0277eb" />
 </p>
 <p>
 </p>
@@ -236,13 +239,13 @@ Password Reset.
 </p>
 <br />
 <p>
-<img <img width="828" height="548" alt="Screenshot 2025-09-01 182842" src="https://github.com/user-attachments/assets/7d3e5f91-7e28-4ddf-838e-be2ec38328d9"/>
+<img <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/b025a850-24c9-44f0-b5c7-f38f6dda51cc" />
 
-<img width="827" height="549" alt="Screenshot 2025-09-01 182904" src="https://github.com/user-attachments/assets/37b05b06-e059-438c-82fd-878ab50b5967"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/ac8415f3-6d7d-4671-b344-0f6afd7a5c4e" />
 
-<img width="829" height="543" alt="Screenshot 2025-09-01 182915" src="https://github.com/user-attachments/assets/72ae8c1d-43c8-4d0d-b892-227af6245087"/>
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/7c834300-6d23-4374-96ad-580ba8d2e76c" />
 
-<img width="833" height="539" alt="Screenshot 2025-09-01 182926" src="https://github.com/user-attachments/assets/f67fd52c-b651-4524-a079-348f9dca46d6" />
+ <img width="2880" height="1800" alt="image" src="https://github.com/user-attachments/assets/25da69e4-367d-497e-956a-e38783271704" />
 
 </p>
 <p>
